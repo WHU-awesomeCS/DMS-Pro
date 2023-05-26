@@ -72,7 +72,7 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.DataPrivilegeVMs
             {
                 if (string.IsNullOrEmpty(Entity.UserCode))
                 {
-                    MSD.AddModelError("Entity.UserCode", Localizer["Validate.{0}required", Localizer["_Admin.Account"]]);
+                    MSD.AddModelError("Entity.UserCode", Localizer["Validate.{0}required", Localizer["管理.Account"]]);
                 }
                 else
                 {
@@ -87,7 +87,7 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.DataPrivilegeVMs
             {
                 if(string.IsNullOrEmpty(Entity.GroupCode))
                 {
-                    MSD.AddModelError("Entity.GroupId", Localizer["Validate.{0}required", Localizer["_Admin.Group"]]);
+                    MSD.AddModelError("Entity.GroupId", Localizer["Validate.{0}required", Localizer["管理.Group"]]);
                 }
             }
 

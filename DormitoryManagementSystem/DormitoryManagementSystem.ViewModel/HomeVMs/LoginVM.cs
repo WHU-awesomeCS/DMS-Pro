@@ -7,12 +7,12 @@ namespace DormitoryManagementSystem.ViewModel.HomeVMs
 {
     public class LoginVM : BaseVM
     {
-        [Display(Name = "_Admin.Account")]
+        [Display(Name = "管理.Account")]
         [Required(ErrorMessage = "Validate.{0}required")]
         [StringLength(50, ErrorMessage = "Validate.{0}stringmax{1}")]
         public string ITCode { get; set; }
 
-        [Display(Name = "_Admin.Password")]
+        [Display(Name = "管理.Password")]
         [Required(ErrorMessage = "Validate.{0}required")]
         [StringLength(50, ErrorMessage = "Validate.{0}stringmax{1}")]
         public string Password { get; set; }

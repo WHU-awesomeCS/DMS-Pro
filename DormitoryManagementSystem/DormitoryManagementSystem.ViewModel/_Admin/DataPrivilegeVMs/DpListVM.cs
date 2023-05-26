@@ -54,14 +54,14 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.DataPrivilegeVMs
     {
         public new string ID { get; set; }
 
-        [Display(Name = "_Admin.DataPrivilegeName")]
+        [Display(Name = "管理.DataPrivilegeName")]
         public string Name { get; set; }
     }
 
     public class DpSearcher : BaseSearcher
     {
         public string TableName { get; set; }
-        [Display(Name = "_Admin.DataPrivilegeName")]
+        [Display(Name = "管理.DataPrivilegeName")]
         public string Filter { get; set; }
     }
 

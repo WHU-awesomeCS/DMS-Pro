@@ -16,13 +16,13 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.DataPrivilegeVMs
 
     public class DataPrivilegeSearcher : BaseSearcher
     {
-        [Display(Name = "_Admin.Account")]
+        [Display(Name = "管理.Account")]
         public string Name { get; set; }
-        [Display(Name = "_Admin.Privileges")]
+        [Display(Name = "管理.Privileges")]
         public string TableName { get; set; }
         public List<ComboSelectListItem> TableNames { get; set; }
 
-        [Display(Name = "_Admin.DpType")]
+        [Display(Name = "管理.DpType")]
         public DpTypeEnum DpType { get; set; }
         public Guid? DomainID { get; set; }
         public List<ComboSelectListItem> AllDomains { get; set; }

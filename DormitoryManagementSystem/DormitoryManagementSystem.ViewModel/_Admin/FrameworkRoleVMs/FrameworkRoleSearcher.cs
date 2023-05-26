@@ -10,10 +10,10 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkRoleVMs
 {
     public class FrameworkRoleSearcher : BaseSearcher
     {
-        [Display(Name = "_Admin.RoleCode")]
+        [Display(Name = "管理.RoleCode")]
         public string RoleCode { get; set; }
 
-        [Display(Name = "_Admin.RoleName")]
+        [Display(Name = "管理.RoleName")]
         public string RoleName { get; set; }
     }
 }

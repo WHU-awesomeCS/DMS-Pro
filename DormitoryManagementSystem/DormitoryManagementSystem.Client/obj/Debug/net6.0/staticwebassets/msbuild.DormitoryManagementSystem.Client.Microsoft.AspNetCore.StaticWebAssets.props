@@ -153,7 +153,11 @@
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Alternative</AssetRole>
+<<<<<<< HEAD
       <RelatedAsset>C:\Users\Z Christine\Desktop\GitHub\DMS-Pro\DormitoryManagementSystem\DormitoryManagementSystem.Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js</RelatedAsset>
+=======
+      <RelatedAsset>C:\Users\2021\Desktop\GitHub\DMS-Pro\DormitoryManagementSystem\DormitoryManagementSystem.Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js</RelatedAsset>
+>>>>>>> 80618613175f504272e0a5578f3b34f4ba142a7d
       <AssetTraitName>Content-Encoding</AssetTraitName>
       <AssetTraitValue>gzip</AssetTraitValue>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

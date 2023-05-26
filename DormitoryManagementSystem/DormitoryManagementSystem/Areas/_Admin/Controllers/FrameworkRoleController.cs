@@ -43,7 +43,7 @@ namespace WalkingTec.Mvvm.Admin.Api
             return vm;
         }
 
-        [ActionDescription("_Admin.PageFunction")]
+        [ActionDescription("管理.PageFunction")]
         [HttpPut("[action]")]
         public async Task<IActionResult> EditPrivilege(FrameworkRoleMDVM2 vm)
         {

@@ -103,11 +103,11 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkRoleVMs
 
     public class Page_View : TopBasePoco
     {
-        [Display(Name = "_Admin.PageName")]
+        [Display(Name = "管理.PageName")]
         public string Name { get; set; }
-        [Display(Name = "_Admin.PageFunction")]
+        [Display(Name = "管理.PageFunction")]
         public List<Guid> Actions { get; set; }
-        [Display(Name = "_Admin.PageFunction")]
+        [Display(Name = "管理.PageFunction")]
         public List<ComboSelectListItem> AllActions { get; set; }
 
         public List<Page_View> Children { get; set; }

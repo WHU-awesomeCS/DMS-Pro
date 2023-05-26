@@ -13,9 +13,9 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkUserVms
 {
     public class FrameworkUserVM : BaseCRUDVM<FrameworkUser>
     {
-        [Display(Name = "_Admin.Role")]
+        [Display(Name = "管理.Role")]
         public List<string> SelectedRolesCodes { get; set; }
-        [Display(Name = "_Admin.Group")]
+        [Display(Name = "管理.Group")]
         public List<string> SelectedGroupCodes { get; set; }
 
 

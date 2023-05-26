@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DormitoryManagementSystem.ViewModel
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Z Christine\Desktop\GitHub\DMS-Pro\DormitoryManagementSystem\DormitoryManagementSystem.ViewModel\
+=======
+build_property.ProjectDir = C:\Users\2021\Desktop\GitHub\DMS-Pro\DormitoryManagementSystem\DormitoryManagementSystem.ViewModel\
+>>>>>>> 80618613175f504272e0a5578f3b34f4ba142a7d

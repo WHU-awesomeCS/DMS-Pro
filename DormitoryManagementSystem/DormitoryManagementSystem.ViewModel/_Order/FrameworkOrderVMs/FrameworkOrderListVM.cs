@@ -9,7 +9,7 @@ using System.ComponentModel.DataAnnotations;
 using DormitoryManagementSystem.Model;
 
 
-namespace DormitoryManagementSystem.ViewModel._Order.FrameworkOrderVMs
+namespace DormitoryManagementSystem.ViewModel.访客.FrameworkOrderVMs
 {
     public partial class FrameworkOrderListVM : BasePagedListVM<FrameworkOrder_View, FrameworkOrderSearcher>
     {

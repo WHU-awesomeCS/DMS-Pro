@@ -8,7 +8,7 @@ using WalkingTec.Mvvm.Core.Extensions;
 using DormitoryManagementSystem.Model;
 
 
-namespace DormitoryManagementSystem.ViewModel._Order.FrameworkOrderVMs
+namespace DormitoryManagementSystem.ViewModel.访客.FrameworkOrderVMs
 {
     public partial class FrameworkOrderVM : BaseCRUDVM<FrameworkOrder>
     {
