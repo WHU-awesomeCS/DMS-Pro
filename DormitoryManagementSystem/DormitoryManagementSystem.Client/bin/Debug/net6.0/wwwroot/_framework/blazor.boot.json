@@ -308,10 +308,10 @@
     },
     "satelliteResources": {
       "en": {
-        "en\/DormitoryManagementSystem.Shared.resources.dll": "sha256-sRoBMtD4VIXX2pNyei\/x4AoUtfLJK0MMjWzbxkc6Wco="
+        "en\/DormitoryManagementSystem.Shared.resources.dll": "sha256-2tE\/0HkRc6lj9uVdjWQbB9toDJC0x8amDYXFKYK44Tw="
       },
       "zh": {
-        "zh\/DormitoryManagementSystem.Shared.resources.dll": "sha256-ebo7uhVcved7LJeHBRGAsMqd8WREjrVBnf+pSMe7bA4="
+        "zh\/DormitoryManagementSystem.Shared.resources.dll": "sha256-V5jNpY\/r1MmyKxqRj68AzaeiosjnV6Kjzwus25gFidY="
       }
     }
   }

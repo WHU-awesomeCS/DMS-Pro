@@ -1129,15 +1129,15 @@
       "url": "_framework\/DormitoryManagementSystem.Model.dll"
     },
     {
-      "hash": "sha256-Whwt2prusxNKnGp6T5hUjbK0aLuqheD9Qt8PM\/1wpew=",
+      "hash": "sha256-Mvv15BJ2arE1OPGt3lom39upuq\/OW\/29Zn4HSeUI298=",
       "url": "_framework\/DormitoryManagementSystem.Shared.dll"
     },
     {
-      "hash": "sha256-JdEK5641sV4JDa1derOs1YJYfRoZ+eDDBacMr9Ae0iI=",
+      "hash": "sha256-XwmK+fpaugv\/aVNISqRFmMChi5DwgGk1DZX2CGbIQMI=",
       "url": "_framework\/DormitoryManagementSystem.ViewModel.dll"
     },
     {
-      "hash": "sha256-9VsDlDBD3jTpdZ5JbZx22Zo\/zBE0IHJD\/8pe\/3XT7FY=",
+      "hash": "sha256-GduiLS\/WD6kocxASWufzi7qQMPtaeQCn9H50GUHh76E=",
       "url": "_framework\/DormitoryManagementSystem.Shared.pdb"
     },
     {
@@ -1145,23 +1145,23 @@
       "url": "_framework\/DormitoryManagementSystem.Model.pdb"
     },
     {
-      "hash": "sha256-I3PGFJFtjkfpzz4NdlwBwgDXjHRonmMm+w\/xKNFJ8WY=",
+      "hash": "sha256-51PetFG1zaISwSPhJYgBrq3TFd9QGNvoC308664bmQ8=",
       "url": "_framework\/DormitoryManagementSystem.ViewModel.pdb"
     },
     {
-      "hash": "sha256-3BlHDZjFuyyJcQTLNi8Tp9u8bWYCrIe9y8JMhcTmTjo=",
+      "hash": "sha256-sRoBMtD4VIXX2pNyei\/x4AoUtfLJK0MMjWzbxkc6Wco=",
       "url": "_framework\/en\/DormitoryManagementSystem.Shared.resources.dll"
     },
     {
-      "hash": "sha256-cqqqWIbpsUrm\/rjB55hXq8UbIrhTXbQxQ4sgsc\/zCcM=",
+      "hash": "sha256-ebo7uhVcved7LJeHBRGAsMqd8WREjrVBnf+pSMe7bA4=",
       "url": "_framework\/zh\/DormitoryManagementSystem.Shared.resources.dll"
     },
     {
-      "hash": "sha256-bGJWvteGXgm5EB4TXn4nYP8BBheVFwSjclH5wT1ZTWU=",
+      "hash": "sha256-t\/Lu4fatf48iVThMyf0cO2UWzzjV7yEx0E5AYrW5x9k=",
       "url": "_framework\/DormitoryManagementSystem.Client.dll"
     },
     {
-      "hash": "sha256-LTygnWwbKkxh8YUXvqMz75OprljC2iTDNRIXU+RcESE=",
+      "hash": "sha256-nlVyQlohhNODY\/t9nXIAVhI2170JesJSMGp7ggsk9Lc=",
       "url": "_framework\/DormitoryManagementSystem.Client.pdb"
     },
     {
@@ -1169,7 +1169,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-+j++e9Fz7bqvaU1i4YtBrxMxg9\/acRX5uVggtjACwDg=",
+      "hash": "sha256-MCi6M5CTXok7EZTcnpOxgZzDVh\/E+x4aBE22dzfEc+8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1305,5 +1305,5 @@
       "url": "_content\/DormitoryManagementSystem.Shared\/js\/common.js"
     }
   ],
-  "version": "3vnO1M1A"
+  "version": "B0YJlZIV"
 };
