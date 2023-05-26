@@ -13,7 +13,7 @@ namespace DormitoryManagementSystem.Controllers
 {
     [Area("_Order")]
     [AuthorizeJwtWithCookie]
-    [ActionDescription("生产订单")]
+    [ActionDescription("访客信息")]
     [ApiController]
     [Route("api/FrameworkOrder")]
 	public partial class FrameworkOrderController : BaseApiController

@@ -11,11 +11,11 @@ namespace DormitoryManagementSystem.Model
 {
     public enum FOrderStatus
     {
-        初始状态 = 0,
-        生产状态 = 1,
-        暂停状态 = 2,
-        清料状态 = 3,
-        返修状态 = 4,
+        预约状态 = 0,
+        已来访状态 = 1,//已预约
+        已离开状态 = 2,//已预约
+        预约失效状态 = 3,//未来坊
+        非合法来访 = 4,
     }
 
 
@@ -24,32 +24,32 @@ namespace DormitoryManagementSystem.Model
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Display(Name = "ID")]
-        public new int ID { get; set; }
-
-        [Display(Name = "订单编号")]
+        public new char ID { get; set; }
+        [Display(Name = "访客姓名")]
         [Required(ErrorMessage = "{0}是必填项")]
+        
         public string FProductionCode { get; set; }
-        [Display(Name = "货号Id")]
+        [Display(Name = "访客身份证号")]
         [Required(ErrorMessage = "{0}是必填项")]
         public string FProductItemId { get; set; }
-        [Display(Name = "订单状态")]
+        [Display(Name = "访客状态")]
         [Required(ErrorMessage = "{0}是必填项")]
         public FOrderStatus FOrderStatus { get; set; }
-        [Display(Name = "计划生产数量")]
+        [Display(Name = "当前预约访客数量")]
         [Required(ErrorMessage = "{0}是必填项")]
         public int FPlanNumber { get; set; }
-        [Display(Name = "计划时间")]
+        [Display(Name = "访客进入时间")]
         [Required(ErrorMessage = "{0}是必填项")]
         public DateTime FPlanTime { get; set; }
-        [Display(Name = "完成时间")]
+        [Display(Name = "访客离开时间")]
         public DateTime FFinishTime { get; set; }
-        [Display(Name = "OK数量")]
+        [Display(Name = "访客电话号码")]
         public int FOkNumber { get; set; }
-        [Display(Name = "NG数量")]
+        [Display(Name = "预约但暂未来访访客数量")]
         public int FNgNumber { get; set; }
-        [Display(Name = "在制品数量")]
+        [Display(Name = "正在来访的访客数量")]
         public int FWorkingNumber { get; set; }
-        [Display(Name = "报废品数量")]
+        [Display(Name = "已离开宿舍的访客数量")]
         public int FScrapNumber { get; set; }
 
 
