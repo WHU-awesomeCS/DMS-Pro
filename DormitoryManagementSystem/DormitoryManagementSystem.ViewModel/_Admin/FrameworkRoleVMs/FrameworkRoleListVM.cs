@@ -12,14 +12,14 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkRoleVMs
         {
             return new List<GridAction>
             {
-                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Create, "","_Admin", dialogWidth: 800),
-                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Edit, "","_Admin", dialogWidth: 800),
-                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Delete, "", "_Admin",dialogWidth: 800),
-                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Details, "","_Admin", dialogWidth: 800),
-                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.BatchDelete, "","_Admin", dialogWidth: 800),
-                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Import, "","_Admin", dialogWidth: 800),
-                this.MakeAction("FrameworkRole","PageFunction",Localizer["_Admin.PageFunction"],Localizer["_Admin.PageFunction"], GridActionParameterTypesEnum.SingleId,"_Admin",800).SetShowInRow(),
-                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.ExportExcel, "","_Admin"),
+                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Create, "","管理", dialogWidth: 800),
+                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Edit, "","管理", dialogWidth: 800),
+                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Delete, "", "管理",dialogWidth: 800),
+                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Details, "","管理", dialogWidth: 800),
+                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.BatchDelete, "","管理", dialogWidth: 800),
+                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.Import, "","管理", dialogWidth: 800),
+                this.MakeAction("FrameworkRole","PageFunction",Localizer["管理.PageFunction"],Localizer["管理.PageFunction"], GridActionParameterTypesEnum.SingleId,"管理",800).SetShowInRow(),
+                this.MakeStandardAction("FrameworkRole", GridActionStandardTypesEnum.ExportExcel, "","管理"),
             };
         }
 

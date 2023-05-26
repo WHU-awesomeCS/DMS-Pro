@@ -25,7 +25,7 @@ namespace WalkingTec.Mvvm.Admin.Api
     [AuthorizeJwtWithCookie]
     [ApiController]
     [Route("api/_[controller]")]
-    [ActionDescription("_Admin.LoginApi")]
+    [ActionDescription("管理.LoginApi")]
     [AllRights]
     public class AccountController : BaseApiController
     {
@@ -328,12 +328,12 @@ namespace WalkingTec.Mvvm.Admin.Api
     }
     public class SimpleReg
     {
-        [Display(Name = "_Admin.Account")]
+        [Display(Name = "管理.Account")]
         [Required(ErrorMessage = "Validate.{0}required")]
         [StringLength(50, ErrorMessage = "Validate.{0}stringmax{1}")]
         public string ITCode { get; set; }
 
-        [Display(Name = "_Admin.Name")]
+        [Display(Name = "管理.Name")]
         [Required(ErrorMessage = "Validate.{0}required")]
         [StringLength(50, ErrorMessage = "Validate.{0}stringmax{1}")]
         public string Name { get; set; }
@@ -343,7 +343,7 @@ namespace WalkingTec.Mvvm.Admin.Api
         [StringLength(50, ErrorMessage = "Validate.{0}stringmax{1}")]
         public string Password { get; set; }
 
-        [Display(Name = "_Admin.Photo")]
+        [Display(Name = "管理.Photo")]
         public Guid? PhotoId { get; set; }
     }
 

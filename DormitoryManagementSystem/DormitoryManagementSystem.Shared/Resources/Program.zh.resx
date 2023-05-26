@@ -693,274 +693,274 @@
   <data name="Validate.{0}stringmax{1}" xml:space="preserve">
     <value>{0}最多输入{1}个字符</value>
   </data>
-  <data name="_Admin.Account" xml:space="preserve">
+  <data name="管理.Account" xml:space="preserve">
     <value>账号</value>
   </data>
-  <data name="_Admin.Action" xml:space="preserve">
+  <data name="管理.Action" xml:space="preserve">
     <value>动作</value>
   </data>
-  <data name="_Admin.ActionLogApi" xml:space="preserve">
+  <data name="管理.ActionLogApi" xml:space="preserve">
     <value>日志管理Api</value>
   </data>
-  <data name="_Admin.ActionName" xml:space="preserve">
+  <data name="管理.ActionName" xml:space="preserve">
     <value>动作名称</value>
   </data>
-  <data name="_Admin.ActionTime" xml:space="preserve">
+  <data name="管理.ActionTime" xml:space="preserve">
     <value>操作时间</value>
   </data>
-  <data name="_Admin.AdditionInfo" xml:space="preserve">
+  <data name="管理.AdditionInfo" xml:space="preserve">
     <value>附加信息</value>
   </data>
-  <data name="_Admin.Address" xml:space="preserve">
+  <data name="管理.Address" xml:space="preserve">
     <value>地址</value>
   </data>
-  <data name="_Admin.AllDp" xml:space="preserve">
+  <data name="管理.AllDp" xml:space="preserve">
     <value>全部权限</value>
   </data>
-  <data name="_Admin.Allowed" xml:space="preserve">
+  <data name="管理.Allowed" xml:space="preserve">
     <value>允许</value>
   </data>
-  <data name="_Admin.AllowedDp" xml:space="preserve">
+  <data name="管理.AllowedDp" xml:space="preserve">
     <value>允许访问</value>
   </data>
-  <data name="_Admin.AllowedRole" xml:space="preserve">
+  <data name="管理.AllowedRole" xml:space="preserve">
     <value>允许角色</value>
   </data>
-  <data name="_Admin.AllPris" xml:space="preserve">
+  <data name="管理.AllPris" xml:space="preserve">
     <value>全部权限</value>
   </data>
-  <data name="_Admin.BasicInfo" xml:space="preserve">
+  <data name="管理.BasicInfo" xml:space="preserve">
     <value>基本信息</value>
   </data>
-  <data name="_Admin.CellPhone" xml:space="preserve">
+  <data name="管理.CellPhone" xml:space="preserve">
     <value>手机</value>
   </data>
-  <data name="_Admin.CheckPage" xml:space="preserve">
+  <data name="管理.CheckPage" xml:space="preserve">
     <value>检查页面</value>
   </data>
-  <data name="_Admin.Children" xml:space="preserve">
+  <data name="管理.Children" xml:space="preserve">
     <value>子项</value>
   </data>
-  <data name="_Admin.ClassName" xml:space="preserve">
+  <data name="管理.ClassName" xml:space="preserve">
     <value>类名</value>
   </data>
-  <data name="_Admin.CreateBy" xml:space="preserve">
+  <data name="管理.CreateBy" xml:space="preserve">
     <value>创建人</value>
   </data>
-  <data name="_Admin.CreateTime" xml:space="preserve">
+  <data name="管理.CreateTime" xml:space="preserve">
     <value>创建时间</value>
   </data>
-  <data name="_Admin.DataPrivilege" xml:space="preserve">
+  <data name="管理.DataPrivilege" xml:space="preserve">
     <value>数据权限</value>
   </data>
-  <data name="_Admin.DataPrivilegeApi" xml:space="preserve">
+  <data name="管理.DataPrivilegeApi" xml:space="preserve">
     <value>数据权限Api</value>
   </data>
-  <data name="_Admin.DataPrivilegeCount" xml:space="preserve">
+  <data name="管理.DataPrivilegeCount" xml:space="preserve">
     <value>权限数量</value>
   </data>
-  <data name="_Admin.DataPrivilegeName" xml:space="preserve">
+  <data name="管理.DataPrivilegeName" xml:space="preserve">
     <value>权限名称</value>
   </data>
-  <data name="_Admin.Debug" xml:space="preserve">
+  <data name="管理.Debug" xml:space="preserve">
     <value>调试</value>
   </data>
-  <data name="_Admin.DisplayOrder" xml:space="preserve">
+  <data name="管理.DisplayOrder" xml:space="preserve">
     <value>顺序</value>
   </data>
-  <data name="_Admin.Domain" xml:space="preserve">
+  <data name="管理.Domain" xml:space="preserve">
     <value>域</value>
   </data>
-  <data name="_Admin.DpTargetName" xml:space="preserve">
+  <data name="管理.DpTargetName" xml:space="preserve">
     <value>授权对象</value>
   </data>
-  <data name="_Admin.DpType" xml:space="preserve">
+  <data name="管理.DpType" xml:space="preserve">
     <value>权限类别</value>
   </data>
-  <data name="_Admin.Duration" xml:space="preserve">
+  <data name="管理.Duration" xml:space="preserve">
     <value>时长</value>
   </data>
-  <data name="_Admin.Email" xml:space="preserve">
+  <data name="管理.Email" xml:space="preserve">
     <value>邮箱</value>
   </data>
-  <data name="_Admin.Exception" xml:space="preserve">
+  <data name="管理.Exception" xml:space="preserve">
     <value>异常</value>
   </data>
-  <data name="_Admin.FieldName" xml:space="preserve">
+  <data name="管理.FieldName" xml:space="preserve">
     <value>字段名称</value>
   </data>
-  <data name="_Admin.FileApi" xml:space="preserve">
+  <data name="管理.FileApi" xml:space="preserve">
     <value>文件操作Api</value>
   </data>
-  <data name="_Admin.FileExt" xml:space="preserve">
+  <data name="管理.FileExt" xml:space="preserve">
     <value>扩展名</value>
   </data>
-  <data name="_Admin.FolderOnly" xml:space="preserve">
+  <data name="管理.FolderOnly" xml:space="preserve">
     <value>目录</value>
   </data>
-  <data name="_Admin.Gender" xml:space="preserve">
+  <data name="管理.Gender" xml:space="preserve">
     <value>性别</value>
   </data>
-  <data name="_Admin.Group" xml:space="preserve">
+  <data name="管理.Group" xml:space="preserve">
     <value>用户组</value>
   </data>
-  <data name="_Admin.GroupApi" xml:space="preserve">
+  <data name="管理.GroupApi" xml:space="preserve">
     <value>用户组管理Api</value>
   </data>
-  <data name="_Admin.GroupCode" xml:space="preserve">
+  <data name="管理.GroupCode" xml:space="preserve">
     <value>用户组编号</value>
   </data>
-  <data name="_Admin.GroupDp" xml:space="preserve">
+  <data name="管理.GroupDp" xml:space="preserve">
     <value>用户组权限</value>
   </data>
-  <data name="_Admin.GroupName" xml:space="preserve">
+  <data name="管理.GroupName" xml:space="preserve">
     <value>组名</value>
   </data>
-  <data name="_Admin.HomePhone" xml:space="preserve">
+  <data name="管理.HomePhone" xml:space="preserve">
     <value>座机</value>
   </data>
-  <data name="_Admin.Icon" xml:space="preserve">
+  <data name="管理.Icon" xml:space="preserve">
     <value>图标</value>
   </data>
-  <data name="_Admin.IconFont" xml:space="preserve">
+  <data name="管理.IconFont" xml:space="preserve">
     <value>图标库</value>
   </data>
-  <data name="_Admin.Inside" xml:space="preserve">
+  <data name="管理.Inside" xml:space="preserve">
     <value>内部</value>
   </data>
-  <data name="_Admin.IsInherit" xml:space="preserve">
+  <data name="管理.IsInherit" xml:space="preserve">
     <value>继承</value>
   </data>
-  <data name="_Admin.IsInside" xml:space="preserve">
+  <data name="管理.IsInside" xml:space="preserve">
     <value>地址类型</value>
   </data>
-  <data name="_Admin.IsPublic" xml:space="preserve">
+  <data name="管理.IsPublic" xml:space="preserve">
     <value>公开</value>
   </data>
-  <data name="_Admin.IsValid" xml:space="preserve">
+  <data name="管理.IsValid" xml:space="preserve">
     <value>是否有效</value>
   </data>
-    <data name="_Admin.Job" xml:space="preserve">
+    <data name="管理.Job" xml:space="preserve">
     <value>作业</value>
   </data>
-  <data name="_Admin.Length" xml:space="preserve">
+  <data name="管理.Length" xml:space="preserve">
     <value>长度</value>
   </data>
-  <data name="_Admin.LoginApi" xml:space="preserve">
+  <data name="管理.LoginApi" xml:space="preserve">
     <value>账号操作Api</value>
   </data>
-  <data name="_Admin.LogType" xml:space="preserve">
+  <data name="管理.LogType" xml:space="preserve">
     <value>类型</value>
   </data>
-  <data name="_Admin.MenuApi" xml:space="preserve">
+  <data name="管理.MenuApi" xml:space="preserve">
     <value>菜单管理Api</value>
   </data>
-  <data name="_Admin.MenuItem" xml:space="preserve">
+  <data name="管理.MenuItem" xml:space="preserve">
     <value>菜单项</value>
   </data>
-  <data name="_Admin.MethodName" xml:space="preserve">
+  <data name="管理.MethodName" xml:space="preserve">
     <value>方法</value>
   </data>
-  <data name="_Admin.Module" xml:space="preserve">
+  <data name="管理.Module" xml:space="preserve">
     <value>模块</value>
   </data>
-  <data name="_Admin.ModuleHasSet" xml:space="preserve">
+  <data name="管理.ModuleHasSet" xml:space="preserve">
     <value>该模块已经配置过了</value>
   </data>
-  <data name="_Admin.Name" xml:space="preserve">
+  <data name="管理.Name" xml:space="preserve">
     <value>姓名</value>
   </data>
-  <data name="_Admin.NoIndexInModule" xml:space="preserve">
+  <data name="管理.NoIndexInModule" xml:space="preserve">
     <value>模块中没有找到页面</value>
   </data>
-  <data name="_Admin.NoPris" xml:space="preserve">
+  <data name="管理.NoPris" xml:space="preserve">
     <value>无权限</value>
   </data>
-  <data name="_Admin.Normal" xml:space="preserve">
+  <data name="管理.Normal" xml:space="preserve">
     <value>普通</value>
   </data>
-  <data name="_Admin.Outside" xml:space="preserve">
+  <data name="管理.Outside" xml:space="preserve">
     <value>外部</value>
   </data>
-  <data name="_Admin.PageFunction" xml:space="preserve">
+  <data name="管理.PageFunction" xml:space="preserve">
     <value>页面权限</value>
   </data>
-  <data name="_Admin.PageName" xml:space="preserve">
+  <data name="管理.PageName" xml:space="preserve">
     <value>页面名称</value>
   </data>
-  <data name="_Admin.Parent" xml:space="preserve">
+  <data name="管理.Parent" xml:space="preserve">
     <value>父级</value>
   </data>
-  <data name="_Admin.ParentFolder" xml:space="preserve">
+  <data name="管理.ParentFolder" xml:space="preserve">
     <value>父目录</value>
   </data>
-  <data name="_Admin.Password" xml:space="preserve">
+  <data name="管理.Password" xml:space="preserve">
     <value>密码</value>
   </data>
-  <data name="_Admin.Path" xml:space="preserve">
+  <data name="管理.Path" xml:space="preserve">
     <value>路径</value>
   </data>
-  <data name="_Admin.Photo" xml:space="preserve">
+  <data name="管理.Photo" xml:space="preserve">
     <value>照片</value>
   </data>
-  <data name="_Admin.Privileges" xml:space="preserve">
+  <data name="管理.Privileges" xml:space="preserve">
     <value>权限</value>
   </data>
-  <data name="_Admin.RefreshMenu" xml:space="preserve">
+  <data name="管理.RefreshMenu" xml:space="preserve">
     <value>刷新菜单</value>
   </data>
-  <data name="_Admin.Remark" xml:space="preserve">
+  <data name="管理.Remark" xml:space="preserve">
     <value>备注</value>
   </data>
-  <data name="_Admin.Role" xml:space="preserve">
+  <data name="管理.Role" xml:space="preserve">
     <value>角色</value>
   </data>
-  <data name="_Admin.RoleApi" xml:space="preserve">
+  <data name="管理.RoleApi" xml:space="preserve">
     <value>角色管理Api</value>
   </data>
-  <data name="_Admin.RoleCode" xml:space="preserve">
+  <data name="管理.RoleCode" xml:space="preserve">
     <value>角色编号</value>
   </data>
-  <data name="_Admin.RoleName" xml:space="preserve">
+  <data name="管理.RoleName" xml:space="preserve">
     <value>角色名称</value>
   </data>
-  <data name="_Admin.SelectedModel" xml:space="preserve">
+  <data name="管理.SelectedModel" xml:space="preserve">
     <value>选择模型</value>
   </data>
-  <data name="_Admin.SelectPris" xml:space="preserve">
+  <data name="管理.SelectPris" xml:space="preserve">
     <value>选择权限</value>
   </data>
-  <data name="_Admin.ShowOnMenu" xml:space="preserve">
+  <data name="管理.ShowOnMenu" xml:space="preserve">
     <value>菜单显示</value>
   </data>
-  <data name="_Admin.TableName" xml:space="preserve">
+  <data name="管理.TableName" xml:space="preserve">
     <value>权限名称</value>
   </data>
-  <data name="_Admin.Tenant" xml:space="preserve">
+  <data name="管理.Tenant" xml:space="preserve">
     <value>租户</value>
   </data>
-  <data name="_Admin.UnsetPages" xml:space="preserve">
+  <data name="管理.UnsetPages" xml:space="preserve">
     <value>未设置页面</value>
   </data>
-  <data name="_Admin.UpdateBy" xml:space="preserve">
+  <data name="管理.UpdateBy" xml:space="preserve">
     <value>修改人</value>
   </data>
-  <data name="_Admin.UpdateTime" xml:space="preserve">
+  <data name="管理.UpdateTime" xml:space="preserve">
     <value>修改时间</value>
   </data>
-  <data name="_Admin.User" xml:space="preserve">
+  <data name="管理.User" xml:space="preserve">
     <value>用户</value>
   </data>
-  <data name="_Admin.UserApi" xml:space="preserve">
+  <data name="管理.UserApi" xml:space="preserve">
     <value>用户管理Api</value>
   </data>
-  <data name="_Admin.UserDp" xml:space="preserve">
+  <data name="管理.UserDp" xml:space="preserve">
     <value>用户权限</value>
   </data>
-  <data name="_Admin.UsersCount" xml:space="preserve">
+  <data name="管理.UsersCount" xml:space="preserve">
     <value>包含用户</value>
   </data>
-  <data name="_Admin.ZipCode" xml:space="preserve">
+  <data name="管理.ZipCode" xml:space="preserve">
     <value>邮编</value>
   </data>
 </root>

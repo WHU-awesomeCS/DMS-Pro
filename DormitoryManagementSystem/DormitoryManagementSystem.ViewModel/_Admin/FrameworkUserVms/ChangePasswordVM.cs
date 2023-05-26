@@ -8,7 +8,7 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkUserVms
 {
     public class ChangePasswordVM : BaseVM
     {
-        [Display(Name = "_Admin.Account")]
+        [Display(Name = "管理.Account")]
         public string ITCode { get; set; }
 
         [Display(Name = "Login.OldPassword")]

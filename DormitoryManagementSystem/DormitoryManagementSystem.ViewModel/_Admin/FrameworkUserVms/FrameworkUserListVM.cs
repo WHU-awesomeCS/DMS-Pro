@@ -15,14 +15,14 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkUserVms
         {
             return new List<GridAction>
             {
-                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Create, "", "_Admin",dialogWidth: 800),
-                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Edit, "", "_Admin",dialogWidth: 800),
-                this.MakeAction("FrameworkUser","Password",Localizer?["Login.ChangePassword"],Localizer?["Login.ChangePassword"], GridActionParameterTypesEnum.SingleId,"_Admin",400).SetShowInRow(true),
-                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Delete, "","_Admin",dialogWidth: 800),
-                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Details, "", "_Admin",dialogWidth: 600),
-                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.BatchDelete, "","_Admin", dialogWidth: 800),
-                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Import, "","_Admin", dialogWidth: 800),
-                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.ExportExcel, "","_Admin"),
+                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Create, "", "管理",dialogWidth: 800),
+                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Edit, "", "管理",dialogWidth: 800),
+                this.MakeAction("FrameworkUser","Password",Localizer?["Login.ChangePassword"],Localizer?["Login.ChangePassword"], GridActionParameterTypesEnum.SingleId,"管理",400).SetShowInRow(true),
+                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Delete, "","管理",dialogWidth: 800),
+                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Details, "", "管理",dialogWidth: 600),
+                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.BatchDelete, "","管理", dialogWidth: 800),
+                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.Import, "","管理", dialogWidth: 800),
+                this.MakeStandardAction("FrameworkUser", GridActionStandardTypesEnum.ExportExcel, "","管理"),
             };
         }
 
@@ -78,10 +78,10 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkUserVms
 
     public class FrameworkUser_View : FrameworkUser
     {
-        [Display(Name = "_Admin.Role")]
+        [Display(Name = "管理.Role")]
         public string RoleName_view { get; set; }
 
-        [Display(Name = "_Admin.Group")]
+        [Display(Name = "管理.Group")]
         public string GroupName_view { get; set; }
     }
 }

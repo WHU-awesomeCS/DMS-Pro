@@ -25,8 +25,8 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.DataPrivilegeVMs
 
             return new List<GridAction>
             {
-                this.MakeStandardAction("DataPrivilege", GridActionStandardTypesEnum.Create, "","_Admin", dialogWidth: 800).SetQueryString($"Type={tp}"),
-                this.MakeStandardAction("DataPrivilege", GridActionStandardTypesEnum.ExportExcel, "","_Admin"),
+                this.MakeStandardAction("DataPrivilege", GridActionStandardTypesEnum.Create, "","管理", dialogWidth: 800).SetQueryString($"Type={tp}"),
+                this.MakeStandardAction("DataPrivilege", GridActionStandardTypesEnum.ExportExcel, "","管理"),
             };
         }
 
@@ -63,13 +63,13 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.DataPrivilegeVMs
             string delurl = "";
             if (Searcher.DpType == DpTypeEnum.User)
             {
-                editurl = "/_Admin/DataPrivilege/Edit?ModelName=" + item.TableName + "&Type=User&Id=" + item.TargetId;
-                delurl = "/_Admin/DataPrivilege/Delete?ModelName=" + item.TableName + "&Type=User&Id=" + item.TargetId;
+                editurl = "/管理/DataPrivilege/Edit?ModelName=" + item.TableName + "&Type=User&Id=" + item.TargetId;
+                delurl = "/管理/DataPrivilege/Delete?ModelName=" + item.TableName + "&Type=User&Id=" + item.TargetId;
             }
             else
             {
-                editurl = "/_Admin/DataPrivilege/Edit?ModelName=" + item.TableName + "&Type=UserGroup&Id=" + item.TargetId;
-                delurl = "/_Admin/DataPrivilege/Delete?ModelName=" + item.TableName + "&Type=UserGroup&Id=" + item.TargetId;
+                editurl = "/管理/DataPrivilege/Edit?ModelName=" + item.TableName + "&Type=UserGroup&Id=" + item.TargetId;
+                delurl = "/管理/DataPrivilege/Delete?ModelName=" + item.TableName + "&Type=UserGroup&Id=" + item.TargetId;
             }
             return new List<ColumnFormatInfo>
             {
@@ -125,12 +125,12 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.DataPrivilegeVMs
 
     public class DataPrivilege_ListView : BasePoco
     {
-        [Display(Name = "_Admin.DpTargetName")]
+        [Display(Name = "管理.DpTargetName")]
         public string Name { get; set; }
         public string TargetId { get; set; }
-        [Display(Name = "_Admin.DataPrivilegeName")]
+        [Display(Name = "管理.DataPrivilegeName")]
         public string TableName { get; set; }
-        [Display(Name = "_Admin.DataPrivilegeCount")]
+        [Display(Name = "管理.DataPrivilegeCount")]
         public int RelateIDs { get; set; }
         public int DpType { get; set; }
         public string DomainName { get; set; }
@@ -139,7 +139,7 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.DataPrivilegeVMs
 
         public string Edit { get; set; }
 
-        [Display(Name = "_Admin.DataPrivilegeName")]
+        [Display(Name = "管理.DataPrivilegeName")]
         public string PName { get; set; }
     }
 

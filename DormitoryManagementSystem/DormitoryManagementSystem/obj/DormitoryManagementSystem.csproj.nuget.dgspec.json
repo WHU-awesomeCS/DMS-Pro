@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj": {}
+    "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj": {}
   },
   "projects": {
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj": {
+    "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj",
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj",
         "projectName": "DormitoryManagementSystem.Client",
-        "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj",
-        "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-        "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\obj\\",
+        "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Z Christine\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
-                "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj"
+              "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj"
               }
             }
           }
@@ -76,7 +72,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.15, 6.0.15]"
+              "version": "[6.0.11, 6.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -84,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -93,21 +89,17 @@
         }
       }
     },
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj": {
+    "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj",
         "projectName": "DormitoryManagementSystem.DataAccess",
-        "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-        "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Z Christine\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {
-                "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj"
+              "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj"
               }
             }
           }
@@ -152,25 +144,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {
+    "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj",
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj",
         "projectName": "DormitoryManagementSystem.Model",
-        "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj",
-        "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-        "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\obj\\",
+        "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Z Christine\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -217,25 +205,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
+    "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
         "projectName": "DormitoryManagementSystem.Shared",
-        "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
-        "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-        "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\",
+        "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Z Christine\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -249,8 +233,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj": {
-                "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj"
+              "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj"
               }
             }
           }
@@ -294,25 +278,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj": {
+    "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj",
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj",
         "projectName": "DormitoryManagementSystem.ViewModel",
-        "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj",
-        "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-        "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\obj\\",
+        "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Z Christine\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -326,8 +306,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {
-                "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj"
+              "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj"
               }
             }
           }
@@ -357,25 +337,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj": {
+    "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
         "projectName": "DormitoryManagementSystem",
-        "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-        "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\obj\\",
+        "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Z Christine\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -389,14 +365,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj": {
-                "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj"
+              "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj"
               },
-              "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj": {
-                "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj"
+              "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj"
               },
-              "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
-                "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj"
+              "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj"
               }
             }
           }
@@ -439,7 +415,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

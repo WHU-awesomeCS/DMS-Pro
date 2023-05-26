@@ -12,13 +12,13 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkMenuVMs
     public class FrameworkMenuVM2 : BaseCRUDVM<FrameworkMenu>
     {
 
-        [Display(Name = "_Admin.Action")]
+        [Display(Name = "管理.Action")]
         public List<string> SelectedActionIDs { get; set; }
 
-        [Display(Name = "_Admin.Module")]
+        [Display(Name = "管理.Module")]
         public string SelectedModule { get; set; }
 
-        [Display(Name = "_Admin.AllowedRole")]
+        [Display(Name = "管理.AllowedRole")]
         public List<string> SelectedRolesCodes { get; set; }
 
 
@@ -56,7 +56,7 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkMenuVMs
             {
                 if (string.IsNullOrEmpty(SelectedModule) == true)
                 {
-                    MSD.AddModelError("SelectedModule", Localizer["Validate.{0}required", Localizer["_Admin.Module"]]);
+                    MSD.AddModelError("SelectedModule", Localizer["Validate.{0}required", Localizer["管理.Module"]]);
                 }
                 else
                 {
@@ -64,7 +64,7 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkMenuVMs
                     var test = DC.Set<FrameworkMenu>().Where(x => x.Url != null && x.Url.ToLower() == this.Entity.Url.ToLower() && x.ID != Entity.ID).FirstOrDefault();
                     if (test != null)
                     {
-                        MSD.AddModelError(" error", Localizer["_Admin.ModuleHasSet"]);
+                        MSD.AddModelError(" error", Localizer["管理.ModuleHasSet"]);
                     }
                 }
             }

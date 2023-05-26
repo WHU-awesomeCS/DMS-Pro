@@ -95,11 +95,11 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkMenuVMs
 
         [Display(Name = "Codegen.ModuleName")]
         public string ModuleName { get; set; }
-        [Display(Name = "_Admin.ActionName")]
+        [Display(Name = "管理.ActionName")]
         public string ActionName { get; set; }
-        [Display(Name = "_Admin.ClassName")]
+        [Display(Name = "管理.ClassName")]
         public string ClassName { get; set; }
-        [Display(Name = "_Admin.MethodName")]
+        [Display(Name = "管理.MethodName")]
         public string MethodName { get; set; }
 
         public string AreaName { get; set; }

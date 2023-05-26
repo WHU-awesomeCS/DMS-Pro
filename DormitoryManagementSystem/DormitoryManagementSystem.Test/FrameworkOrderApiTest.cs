@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using WalkingTec.Mvvm.Core;
 using DormitoryManagementSystem.Controllers;
-using DormitoryManagementSystem.ViewModel._Order.FrameworkOrderVMs;
+using DormitoryManagementSystem.ViewModel.访客.FrameworkOrderVMs;
 using DormitoryManagementSystem.Model;
 using DormitoryManagementSystem.DataAccess;
 

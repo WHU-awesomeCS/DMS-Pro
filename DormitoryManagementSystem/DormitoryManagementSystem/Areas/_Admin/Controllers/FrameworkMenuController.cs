@@ -126,7 +126,7 @@ namespace WalkingTec.Mvvm.Admin.Api
             return vm.GetExportData();
         }
 
-        [ActionDescription("_Admin.UnsetPages")]
+        [ActionDescription("管理.UnsetPages")]
         [HttpGet("[action]")]
         public string UnsetPages()
         {
@@ -134,7 +134,7 @@ namespace WalkingTec.Mvvm.Admin.Api
             return vm.GetJson(enumToString: false);
         }
 
-        [ActionDescription("_Admin.RefreshMenu")]
+        [ActionDescription("管理.RefreshMenu")]
         [HttpGet("[action]")]
         public async Task<ActionResult> RefreshMenu()
         {

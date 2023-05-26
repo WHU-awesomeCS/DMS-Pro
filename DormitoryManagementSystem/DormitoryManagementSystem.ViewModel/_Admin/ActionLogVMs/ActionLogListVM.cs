@@ -12,8 +12,8 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.ActionLogVMs
         {
             var actions = new List<GridAction>
             {
-                this.MakeStandardAction("ActionLog", GridActionStandardTypesEnum.Details, "","_Admin", dialogWidth: 800).SetHideOnToolBar(true),
-                this.MakeStandardAction("ActionLog", GridActionStandardTypesEnum.ExportExcel, "","_Admin"),
+                this.MakeStandardAction("ActionLog", GridActionStandardTypesEnum.Details, "","管理", dialogWidth: 800).SetHideOnToolBar(true),
+                this.MakeStandardAction("ActionLog", GridActionStandardTypesEnum.ExportExcel, "","管理"),
             };
             return actions;
         }

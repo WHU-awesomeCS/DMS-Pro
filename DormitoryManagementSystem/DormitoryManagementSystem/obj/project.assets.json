@@ -11228,24 +11228,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Z Christine\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\2021\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
       "projectName": "DormitoryManagementSystem",
-      "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-      "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\obj\\",
+      "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Z Christine\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11259,14 +11254,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj": {
-              "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj"
+            "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj": {
+              "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj"
             },
-            "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj": {
-              "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj"
+            "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj"
             },
-            "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
-              "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj"
+            "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
+              "projectPath": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj"
             }
           }
         }
@@ -11309,7 +11304,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

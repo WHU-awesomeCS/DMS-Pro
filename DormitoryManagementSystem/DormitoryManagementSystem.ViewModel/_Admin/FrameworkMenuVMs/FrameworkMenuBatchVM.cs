@@ -35,13 +35,13 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkMenuVMs
     public class FrameworkMenu_BatchEdit : BaseVM
     {
         public List<Guid> IDs { get; set; }
-        [Display(Name = "_Admin.ShowOnMenu")]
+        [Display(Name = "管理.ShowOnMenu")]
         public bool ShowOnMenu { get; set; }
 
-        [Display(Name = "_Admin.ParentFolder")]
+        [Display(Name = "管理.ParentFolder")]
         public Guid? ParentId { get; set; }
         public List<ComboSelectListItem> AllParents { get; set; }
-        [Display(Name = "_Admin.Icon")]
+        [Display(Name = "管理.Icon")]
         public string Icon { get; set; }
     }
 }

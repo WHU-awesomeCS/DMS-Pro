@@ -10,10 +10,10 @@ namespace WalkingTec.Mvvm.Mvc.Admin.ViewModels.FrameworkGroupVMs
 {
     public class FrameworkGroupSearcher : BaseSearcher
     {
-        [Display(Name = "_Admin.GroupCode")]
+        [Display(Name = "管理.GroupCode")]
         public string GroupCode { get; set; }
 
-        [Display(Name = "_Admin.GroupName")]
+        [Display(Name = "管理.GroupName")]
         public string GroupName { get; set; }
     }
 }

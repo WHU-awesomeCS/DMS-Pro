@@ -5,13 +5,13 @@ using System.Linq;
 using WalkingTec.Mvvm.Core;
 using WalkingTec.Mvvm.Core.Extensions;
 using WalkingTec.Mvvm.Mvc;
-using DormitoryManagementSystem.ViewModel._Order.FrameworkOrderVMs;
+using DormitoryManagementSystem.ViewModel.访客.FrameworkOrderVMs;
 using DormitoryManagementSystem.Model;
 
 
 namespace DormitoryManagementSystem.Controllers
 {
-    [Area("_Order")]
+    [Area("访客")]
     [AuthorizeJwtWithCookie]
     [ActionDescription("访客信息")]
     [ApiController]
