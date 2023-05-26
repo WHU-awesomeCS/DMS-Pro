@@ -13,7 +13,7 @@ namespace DormitoryManagementSystem.Controllers
 {
     [Area("_Product")]
     [AuthorizeJwtWithCookie]
-    [ActionDescription("产品货号")]
+    [ActionDescription("职工信息")]
     [ApiController]
     [Route("api/FrameworkProductItem")]
 	public partial class FrameworkProductItemController : BaseApiController

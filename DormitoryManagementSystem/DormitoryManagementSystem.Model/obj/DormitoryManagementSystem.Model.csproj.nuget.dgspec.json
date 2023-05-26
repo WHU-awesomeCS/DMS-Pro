@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {}
+    "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {}
   },
   "projects": {
-    "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {
+    "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj",
         "projectName": "DormitoryManagementSystem.Model",
-        "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj",
+        "projectPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\DormitoryManagementSystem.Model.csproj",
         "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-        "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\obj\\",
+        "outputPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

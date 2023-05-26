@@ -11234,11 +11234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
       "projectName": "DormitoryManagementSystem",
-      "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
+      "projectPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\DormitoryManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-      "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11259,14 +11259,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj": {
-              "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj"
+            "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj": {
+              "projectPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Client\\DormitoryManagementSystem.Client.csproj"
             },
-            "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj": {
-              "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj"
+            "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.DataAccess\\DormitoryManagementSystem.DataAccess.csproj"
             },
-            "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
-              "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj"
+            "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj": {
+              "projectPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj"
             }
           }
         }

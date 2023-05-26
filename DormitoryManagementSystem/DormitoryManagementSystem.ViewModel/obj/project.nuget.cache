@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jomKuunX/fq7Ht0k4O1m/wf6Xjfp4Ykzub3CdsF6bQLrZ13abFVkGOVwt+oUuj3hUPsYtw0Wq9Poy7qopoc0og==",
+  "dgSpecHash": "hqlljqONuLHukDYzixcO+3Wc1SyfH3MQ+2mjwAqU149GlRZzKv682evmMPScE5FAdJX8JxCgRwC7J9VfcOKDDA==",
   "success": true,
-  "projectFilePath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj",
+  "projectFilePath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Z Christine\\.nuget\\packages\\aliyun.oss.sdk.netcore\\2.13.0\\aliyun.oss.sdk.netcore.2.13.0.nupkg.sha512",
     "C:\\Users\\Z Christine\\.nuget\\packages\\dotnetcore.npoi\\1.2.3\\dotnetcore.npoi.1.2.3.nupkg.sha512",

@@ -277,19 +277,19 @@
       "mscorlib.dll": "sha256-y7DhCb2PceYWjnHWsZokJrty551Q9XISH3Z72o6RdwI=",
       "netstandard.dll": "sha256-REs1\/xYvAzuX2k2Y5p\/5IaM3O\/zaiYSW62pOQBGMrrA=",
       "System.Private.CoreLib.dll": "sha256-Bz7VnNtt03SzAvIN30yx1e25P6SfMdLYIaKIy7ASEnw=",
-      "DormitoryManagementSystem.Model.dll": "sha256-\/nfqYNNLiXz+lSujbTiZnJjT89SW7wXmfQgnaW1eKnA=",
-      "DormitoryManagementSystem.Shared.dll": "sha256-7lz0jVIhM0bC428u4PDmrk25zJE7pwW\/5FWgxY9PVA8=",
-      "DormitoryManagementSystem.ViewModel.dll": "sha256-7cFacpucRwLAh\/oB+xSfqM25xdayocxxwq5hohBNR28=",
-      "DormitoryManagementSystem.Client.dll": "sha256-tvXss5YfvLT8b66aFCkL5HGob2nbfCfoBXUvk4H68gU="
+      "DormitoryManagementSystem.Model.dll": "sha256-rA7xu283cPSBb25boL13\/WM5JwkSA4NwuZKmK6hewds=",
+      "DormitoryManagementSystem.Shared.dll": "sha256-QFnjk+UQOBithV4FyiwPe+mJHudHwHqiLFktrXw0+vs=",
+      "DormitoryManagementSystem.ViewModel.dll": "sha256-3fXs\/CsIfCY7xENIeUO0RKSZmzxRefySMrdh2oBBffc=",
+      "DormitoryManagementSystem.Client.dll": "sha256-JZKNfkDRoN6mBMMNXbXEf3jhLLBFY24\/NW2OGHjlN\/Q="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "DormitoryManagementSystem.Shared.pdb": "sha256-GG1A5UOW83WjCLPHe0sKhH\/JNtOJQbInpoRNsMy3mf8=",
-      "DormitoryManagementSystem.Model.pdb": "sha256-PFQPQ0SEefIDBrKMNy\/itXnXTOpiA4aoXofv00m8hVI=",
-      "DormitoryManagementSystem.ViewModel.pdb": "sha256-Ds3\/hxHTswKM+y6tb03MRLVq28h6Y\/Z8Y2N8U6m1n9k=",
-      "DormitoryManagementSystem.Client.pdb": "sha256-Lr8HxZIayjoIfX2UBcayEe7likqlX29m0nPqARU6LjI="
+      "DormitoryManagementSystem.Shared.pdb": "sha256-ObgOCl0ZRAkBh4UvEvzIMTxg2CVtXeyMGZWbbSv+IRY=",
+      "DormitoryManagementSystem.Model.pdb": "sha256-3LAagPb7rXyej4MBg+JfaJJ650UOzW4shcDbo520mfk=",
+      "DormitoryManagementSystem.ViewModel.pdb": "sha256-YbxDLSMUMg3qyp2eM2pRxEC05wVjI19T2hRYNIOuFEk=",
+      "DormitoryManagementSystem.Client.pdb": "sha256-IBYSXEoAzObhYJa2bePWlspIfSnsb1YZWEbQtFz9j3I="
     },
     "runtime": {
       "dotnet.6.0.15.fd0t0sr2ji.js": "sha256-fb2wBZaRp096nChMG9nDNEcW0kW1whA\/kfQNyH+5QpQ=",
@@ -308,10 +308,10 @@
     },
     "satelliteResources": {
       "en": {
-        "en\/DormitoryManagementSystem.Shared.resources.dll": "sha256-o7fZdGGjJzNQFQU809vNsqYWhC12vU01QM7jXXMCW+w="
+        "en\/DormitoryManagementSystem.Shared.resources.dll": "sha256-48QNkHMHNCB\/zwvK1Ab8sFc8VK6D9iCKSmwm1eCYfEo="
       },
       "zh": {
-        "zh\/DormitoryManagementSystem.Shared.resources.dll": "sha256-CY0M9ObqqcWRnUthUC6Ur8wNh+bQAgrv69\/BBt6aE3Q="
+        "zh\/DormitoryManagementSystem.Shared.resources.dll": "sha256-YleWmyj+o0SAWt0BboKRmdo8UnSONu6GZ4tovZjrfC0="
       }
     }
   }

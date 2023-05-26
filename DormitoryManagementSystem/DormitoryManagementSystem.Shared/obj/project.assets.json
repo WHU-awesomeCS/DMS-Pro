@@ -9412,11 +9412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
       "projectName": "DormitoryManagementSystem.Shared",
-      "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
+      "projectPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
       "packagesPath": "C:\\Users\\Z Christine\\.nuget\\packages\\",
-      "outputPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9437,8 +9437,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj": {
-              "projectPath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj"
+            "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj": {
+              "projectPath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.ViewModel\\DormitoryManagementSystem.ViewModel.csproj"
             }
           }
         }

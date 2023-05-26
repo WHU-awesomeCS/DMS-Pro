@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VnO1Lia/hTSs7Coy3F/ux7hoy5fQpjaluSD5Pp4j7CWouwJf9MO+5SSZl6M3kMUu5zm/WQlX2a8jxiZ/CdaACg==",
+  "dgSpecHash": "Uy86mO6HXt3WVcQ+60vRtLqchBn6+Dc13+1qHbVuN9MZzH2pk4VuLz5rGNKUluwNTfsv1STG3Ex2F52vpYFPmQ==",
   "success": true,
-  "projectFilePath": "E:\\DMS-Pro-main\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Z Christine\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\DormitoryManagementSystem.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Z Christine\\.nuget\\packages\\aliyun.oss.sdk.netcore\\2.13.0\\aliyun.oss.sdk.netcore.2.13.0.nupkg.sha512",
     "C:\\Users\\Z Christine\\.nuget\\packages\\bootstrapblazor\\6.5.0\\bootstrapblazor.6.5.0.nupkg.sha512",
