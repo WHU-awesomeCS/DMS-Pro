@@ -8,13 +8,13 @@
         <header class="login-header">
             <img src="/images/logo.png" alt="" height="48">
         </header>
-        <div class="login-content">
+        <div class="login-content" style="margin-top:50px; margin-left:30%; width:40%">
             <div class="login-form">
                 <h1>DormitoryManagementSystem</h1>
                 <ValidateForm Model="@Model" OnValidSubmit="@Submit">
                     <BootstrapInput @bind-Value="@Model.ITCode" />
                     <BootstrapInput @bind-Value="@Model.Password" type="password" />
-                    <Button ButtonType="ButtonType.Submit" Text="@WtmBlazor.Localizer["Login.Login"]" style="width:100%;margin-top:20px;" IsAsync="true" />
+                    <Button ButtonType="ButtonType.Submit" Text="@WtmBlazor.Localizer["Login.Login"]" style="width:30%;margin-top:20px;margin-left:30%;" IsAsync="true" />
                 </ValidateForm>
             </div>
         </div>
